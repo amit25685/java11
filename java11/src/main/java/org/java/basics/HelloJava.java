@@ -1,8 +1,8 @@
-package org.java11.basics;
+package org.java.basics;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class HelloJava11 {
+public class HelloJava {
     public static void main(String[] args) {
         System.out.println("Hello Java 11");
     }}
